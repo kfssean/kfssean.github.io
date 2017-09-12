@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Tammudu');
+
+body{
+font-family: 'Baloo Tammudu', cursive;
+color: white;
+background: black;
+
+}
+h1{
+	color: orange;
+	font-size: 70px;
+}
+li{
+	font-size: 20px;
+}
+p{
+	font-size: 25px;
+}
+.ninjaPic{
+	width: 750px;
+	border-color: skyblue;
+	border-width: 20px;
+	border-style: dotted;
+}
+
+.Sean{
+	width: 750px;
+	border-color: skyblue;
+	border-width: 20px;
+	border-style: dotted;
+
+
+}
+
+
+}
