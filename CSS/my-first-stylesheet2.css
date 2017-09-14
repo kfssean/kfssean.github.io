@@ -22,9 +22,25 @@ p{
 	border-color: red;
 	border-width: 30px;
 	border-style: dotted;
+}
+.menuBar{
+	font-family: 'Baloo Tammudu', cursive;
+list-style-type: none; 
+background-color: skyblue;
+border: 4px solid #22d31a;
+border-radius: 10px;
+font-weight: bold;
+padding: 16px;
+}
+.menuBar li{
+	display: inline;
+    border-right: 2px solid #111111;
+    padding-right: 16px;
+    padding-left: 16px;
 
-
-
-
-
+}
+.menuBar li a{
+text-decoration: none;
+color: #111111;
+font-size: 25px;
 }
