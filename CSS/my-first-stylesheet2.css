@@ -44,3 +44,25 @@ text-decoration: none;
 color: #111111;
 font-size: 25px;
 }
+
+
+.padding{
+    padding: 25px;
+}
+
+
+.header{
+	color: orange;
+	background-color: green;
+	height: 200px;
+	font-size: 25pt;
+	text-align: center;
+}
+.descript{
+	background-color: #791507;
+    text-align: center;
+    height : 40px;
+    padding: 8px;
+	font-size: 24pt;
+	margin: 0px;
+}
